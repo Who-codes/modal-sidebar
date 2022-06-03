@@ -262,7 +262,7 @@ Sidebar
 }
 .logo {
   justify-self: center;
-  height: 40px;
+  color: var(--clr-primary-5);
 }
 
 .links a {
