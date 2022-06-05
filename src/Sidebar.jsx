@@ -4,7 +4,7 @@ import { FaTimes } from "react-icons/fa";
 
 export default function Sidebar() {
   return (
-    <aside className={`sidebar show-sidebar`}>
+    <aside className={`sidebar`}>
       <div className="sidebar-header">
         <h2 className="logo">LOGO</h2>
         <button className="close-btn">
